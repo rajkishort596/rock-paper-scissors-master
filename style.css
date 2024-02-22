@@ -211,7 +211,6 @@ img {
 /* Results styles */
 .results {
   width: 100%;
-  margin: 0;
 }
 .results__container {
   display: grid;
